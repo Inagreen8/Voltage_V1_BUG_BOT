@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349155298855"
+global.ownernomer = "2349139959926"
 global.ownername = "Voltage Lord👑"
 global.ytname = "YT: Voltagelordprotech"
 global.socialm = "GitHub: VoltageLord"
@@ -14,7 +14,7 @@ global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'VOLTAGE 👑\n\nContact: +2349155298855'
+global.author = 'VOLTAGE 👑\n\nContact: +2349139959926'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -29,7 +29,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = True //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
